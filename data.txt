@@ -1,3 +1,4 @@
 Name: Amanda
 Age: 29
 Favorite Color: Light Blue
+Hobby: Coding
